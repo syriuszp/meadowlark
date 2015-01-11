@@ -9,7 +9,8 @@
   "author": "syriusz.p@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.10.7"
+    "express": "^4.10.7",
+    "express3-handlebars": "^0.5.2"
   },
   "devDependencies": {},
   "repository": {
